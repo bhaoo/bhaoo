@@ -18,4 +18,4 @@
 
 ### Other Data 📊
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhao&layout=compact&langs_count=10&hide_border=true" alt="Wakatime stats" height="200px" /> <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=bhaoo&count_private=true&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhao&layout=compact&langs_count=10&hide_border=true" alt="Wakatime stats" height="180px" /> <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=bhaoo&count_private=true&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="180px" />
